@@ -1,7 +1,7 @@
 <?php
 
 $databaseHost = 'mysql://be3cb8c8bd1de1:bf433341@us-cdbr-east-02.cleardb.com/heroku_6d1e981c0bed683?reconnect=true';
-$databaseName = 'mysql';
+$databaseName = 'heroku_6d1e981c0bed683';
 $databaseUsername = 'be3cb8c8bd1de1';
 $databasePassword = 'heroku_6d1e981c0bed683';
 
