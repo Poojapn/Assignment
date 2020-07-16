@@ -33,7 +33,6 @@ $result = mysqli_query($mysqli, "SELECT * FROM friendlist ORDER BY id DESC"); //
 	}
 	?>
 </table>
-        <button name="Display" type="Display">Display</button>
       <a href="add.php"> <button name="Add" type="submit">Add</button></a>
         <a href="search.php"><button name="search" type="search">search</button></a>   
     </body>
